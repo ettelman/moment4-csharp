@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moment4-csharp", "moment4-csharp\moment4-csharp.csproj", "{AFD4BBEF-3EB9-4C68-9FA6-0E6FFEC040DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD4BBEF-3EB9-4C68-9FA6-0E6FFEC040DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD4BBEF-3EB9-4C68-9FA6-0E6FFEC040DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD4BBEF-3EB9-4C68-9FA6-0E6FFEC040DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD4BBEF-3EB9-4C68-9FA6-0E6FFEC040DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C462E55A-5D51-4136-96C7-33938DFF0809}
+	EndGlobalSection
+EndGlobal
